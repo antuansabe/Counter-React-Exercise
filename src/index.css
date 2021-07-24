@@ -1,0 +1,32 @@
+html,body {
+    color: #fff;
+    background-color: #21232A;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: rgb(178, 178, 242);
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+div {
+    display: flex;
+    align-items:inherit
+}
+
+button {
+    border-radius: 5px;
+    border-style: none;
+    padding: 10px ;
+    font-size: 1.0rem;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+    
+}
